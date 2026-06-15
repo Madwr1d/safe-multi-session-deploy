@@ -21,7 +21,7 @@ merge with conflict detection → verified deploy).
 ## Install
 
 ```bash
-npx skills add madclaw1/safe-multi-session-deploy
+npx skills add Madwr1d/safe-multi-session-deploy
 ```
 
 Then it's available to your agent like any other skill. (It shows up on
