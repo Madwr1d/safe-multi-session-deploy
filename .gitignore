@@ -1,6 +1,0 @@
-# secrets — never commit
-.env*
-!.env.example
-*.pem
-*key*.json
-secrets/
